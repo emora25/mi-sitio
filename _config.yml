@@ -7,3 +7,16 @@ theme: minima
 collections:
   proyectos:
     output: true
+theme: minima
+title: Mi Sitio Jekyll
+
+collections:
+  proyectos:
+    output: true
+
+# Navegación
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+  - proyectos.md
